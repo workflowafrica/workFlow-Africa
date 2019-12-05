@@ -1,1 +1,1 @@
-views folders and files goes here
+views folders and files goes here.
